@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="colored_background_height">150dp</dimen>
+    <dimen name="card_properties_width">100dp</dimen>
+</resources>
